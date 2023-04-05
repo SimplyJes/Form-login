@@ -27,7 +27,7 @@ body {
     width: 80%;
   }
   
-  .form-control {
+  .container .form-control {
     width: 100%;
   }
 }
