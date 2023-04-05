@@ -27,8 +27,8 @@ body {
     width: 80%;
   }
   
-  .form-control input {
-    width: 70%;
+  .form-control {
+    width: 100%;
   }
 }
 
